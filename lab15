@@ -1,0 +1,7 @@
+
+
+
+
+
+iSqrt :: Int-> Int
+iSqrt n = floor(sqrt(fromIntegral n))
